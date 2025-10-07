@@ -2,6 +2,14 @@
 
 This repository hosts an interactive Tableau dashboard designed for a comprehensive analysis of "The Movie Dataset." The dashboard enables users to visualize and explore trends in film genres, revenue, ratings, and production details, providing meaningful insights into the world of cinema.
 
+## Preview
+
+Below are sample visualizations from the dashboard:
+
+![Overview](Overview.png)
+![Financial & Popularity](https://github.com/smusab9152/The_Movie_Dataset_Dashboard-Tableau/blob/f95a74cc0acdadf47c25ade469a34bd697b221dd/Audience%20%26%20Critical%20Reception.png)
+![Audience & Critical Reception](https://github.com/smusab9152/The_Movie_Dataset_Dashboard-Tableau/blob/f95a74cc0acdadf47c25ade469a34bd697b221dd/Audience%20%26%20Critical%20Reception.png)
+
 ## Dashboard Overview
 
 The Tableau dashboard offers a robust platform for deep-dive exploration of movie data. Users can investigate historical trends, compare performance metrics, and filter results to focus on specific genres, years, or production companies.
@@ -37,14 +45,6 @@ The dashboard is available for immediate exploration via Tableau Public. Users c
 
 1. Download the `.twbx` (Tableau Packaged Workbook) file from this repository.
 2. Open the file using Tableau Desktop or Tableau Reader to engage with the dashboard offline.
-
-## Preview
-
-Below are sample visualizations from the dashboard:
-
-![Overview](Overview.png)
-![Financial & Popularity](https://github.com/smusab9152/The_Movie_Dataset_Dashboard-Tableau/blob/f95a74cc0acdadf47c25ade469a34bd697b221dd/Audience%20%26%20Critical%20Reception.png)
-![Audience & Critical Reception](https://github.com/smusab9152/The_Movie_Dataset_Dashboard-Tableau/blob/f95a74cc0acdadf47c25ade469a34bd697b221dd/Audience%20%26%20Critical%20Reception.png)
 
 ## Contact
 
