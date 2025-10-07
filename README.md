@@ -10,7 +10,7 @@ The Tableau dashboard offers a robust platform for deep-dive exploration of movi
 ## Preview
 Below are sample visualizations from the dashboard:
 ![Overview](Overview.png)
-![Financial & Popularity](https://github.com/smusab9152/The_Movie_Dataset_Dashboard-Tableau/blob/f95a74cc0acdadf47c25ade469a34bd697b221dd/Audience%20%26%20Critical%20Reception.png)
+![Financial & Popularity](https://github.com/smusab9152/The_Movie_Dataset_Dashboard-Tableau/blob/e628e36464ce798bb71709a664be6ff555a8c863/Financial%20%20%26%20Populairty.png)
 ![Audience & Critical Reception](https://github.com/smusab9152/The_Movie_Dataset_Dashboard-Tableau/blob/f95a74cc0acdadf47c25ade469a34bd697b221dd/Audience%20%26%20Critical%20Reception.png)
 
 ## Key Features & Visualizations
